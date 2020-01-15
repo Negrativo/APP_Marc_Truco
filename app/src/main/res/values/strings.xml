@@ -1,0 +1,8 @@
+<resources>
+    <string
+        name="app_name"
+        >CalcT</string>
+
+    <string name="marcT"
+        >Marcador de Truco</string>
+</resources>
